@@ -2,6 +2,7 @@
 # created to analyse emails from staffbase/bananatag
 # Using imported json from the staffbase analytics page
 
+
 import json
 
 filepath = "emaildatainjson.json"
